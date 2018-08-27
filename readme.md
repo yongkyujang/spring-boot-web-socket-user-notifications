@@ -26,7 +26,7 @@ Go on the project's root folder, then type:
 Import as *Existing Maven Project* and run it as *Spring Boot App*.
 
 
-
+#### From IntelliJ
 
 
 ### Usage
