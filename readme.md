@@ -26,6 +26,9 @@ Go on the project's root folder, then type:
 Import as *Existing Maven Project* and run it as *Spring Boot App*.
 
 
+
+
+
 ### Usage
 
 - Launch the application and login into it with one of the following credentials (Username / Password):
